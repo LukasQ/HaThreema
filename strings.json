@@ -1,0 +1,15 @@
+{
+    "title": "Threema",
+    "config": {
+      "step": {
+        "user": {
+          "title": "Set up Threema",
+          "description": "Enter your Threema credentials."
+        }
+      },
+      "error": {
+        "auth": "Authentication failed"
+      }
+    }
+  }
+  
