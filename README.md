@@ -1,6 +1,7 @@
 # Threema Integration for Home Assistant
 
 This integration allows sending notifications via Threema from Home Assistant - End-to-End encrypted.
+*IMPORTANT: * This is a early alpha version of the inmtegration. Try it on your own risk - no support available at the moment. 
 
 ## Installation
 
