@@ -1,0 +1,8 @@
+{
+    "domain": "threema",
+    "name": "Threema Messenger",
+    "documentation": "https://www.home-assistant.io/components/threema",
+    "codeowners": [""],
+    "config_flow": true,
+    "requirements": ["threema.gateway==4.0.0"]
+  }
